@@ -155,7 +155,7 @@ font-weight: bold;
     cursor: pointer;
 }
 .bord::after{
-    content: "	\01F50A";   
+    
 }
 .dropdown-menu{
     background: ;
