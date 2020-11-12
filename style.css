@@ -154,9 +154,6 @@ font-weight: bold;
     color: black;
     cursor: pointer;
 }
-.bord::after{
-    
-}
 .dropdown-menu{
     background: ;
     width: 100px;
